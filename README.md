@@ -13,6 +13,10 @@ Packages Used:
 2) requests (server interaction)
 3) BeautifulSoup (html parsing)
 
+IF YOU HAVE ANY ISSUES, PLEASE FEEL FREE TO CONTACT ME.
+
+FACEBOOK: https://www.facebook.com/soyam.ranabhat <br>
+TWITTER: https://twitter.com/shree2072  <br>
 
 
 
