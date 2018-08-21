@@ -9,4 +9,10 @@ Steps:
 All the files will be downloaded with their respective extension.<br>
 
 Packages Used:
+1) tkinter (GUI)
+2) requests (server interaction)
+3) BeautifulSoup (html parsing)
+
+
+
 
